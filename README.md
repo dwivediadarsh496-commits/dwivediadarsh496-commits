@@ -1,7 +1,6 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&color=6E40C9&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Adarsh+Dwivedi;AI%2FML+Enthusiast+%F0%9F%A4%96;DSA+Enthusiast+%F0%9F%A7%A9;Open+Source+Contributor+%F0%9F%8C%9F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&color=6E40C9&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Adarsh+Dwivedi;AI%2FML+Enthusiast+%F0%9F%A4%96;DSA+Enthusiast+%F0%9F%A7%A9;Campus+Lead+%E2%80%93+Open+Source+India+2026+%F0%9F%8C%9F" alt="Typing SVG" />
 </h1>
-
 <h3 align="center">🤖 AI/ML Enthusiast &nbsp;|&nbsp; 🐍 Python Developer &nbsp;|&nbsp; 🧩 DSA Enthusiast &nbsp;|&nbsp; 🎓 B.Tech CSE (AI & ML)</h3>
 
 <p align="center">
